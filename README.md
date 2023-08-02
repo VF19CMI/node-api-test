@@ -90,7 +90,11 @@
 
 ---
 
-3. NOTES:
+3. Create a public github repository with your solution (and share the link with us)
+
+---
+
+4. NOTES:
 - You don't have to use a database for it!
 - You can use a simple object or JSON to store the data, but try to separate it at least in a different file!
 - For simplicity you can return a 400 whenever it makes sense (for example post doesn't exist with a given id).
