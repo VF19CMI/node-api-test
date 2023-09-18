@@ -95,3 +95,4 @@
 - You don't have to use a database for it!
 - You can use a simple object or JSON to store the data, but try to separate it at least in a different file!
 - For simplicity you can return a 400 whenever it makes sense (for example post doesn't exist with a given id).
+- Please use JavaScript (and do not use TypeScript)
